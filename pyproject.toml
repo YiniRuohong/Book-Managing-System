@@ -1,0 +1,21 @@
+[project]
+name = "book-managing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "adafruit-blinka>=8.57.0",
+    "adafruit-circuitpython-pn532>=2.4.3",
+    "customtkinter>=5.2.2",
+    "cython>=3.0.12",
+    "opencv-python>=4.11.0.86",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pillow>=11.2.1",
+    "pymysql>=1.1.1",
+    "pyserial>=3.5",
+    "qrcode>=8.2",
+    "requests>=2.32.3",
+    "xlrd>=2.0.1",
+]
